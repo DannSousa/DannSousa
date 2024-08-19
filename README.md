@@ -24,11 +24,11 @@ Backend Developer
 
 <b>My GitHub Stats</b>
 <div style="display: flex;">
-  <a href="http://www.github.com/DannSousa">
-    <img src="https://github-readme-stats.vercel.app/api?username=DannSousa&show_icons=true&hide=stars,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="DannSousa's GitHub stats" />
+  <a href="http://www.github.com/DannSousa" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=DannSousa&show_icons=true&hide=stars,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="DannSousa's GitHub stats" style="height: 200px; width: 100%;" />
   </a>
-  <a href="https://github.com/DannSousa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannSousa&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
+  <a href="https://github.com/DannSousa" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannSousa&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" style="height: 200px; width: 100%;" />
   </a>
 </div>
 
