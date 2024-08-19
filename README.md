@@ -29,4 +29,6 @@ Backend Developer
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannSousa&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
+![snake gif](https://github.com/DannSousa/DannSousa/blob/output/github-contribution-grid-snake-dark.svg)
+
 
